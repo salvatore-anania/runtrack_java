@@ -1,9 +1,9 @@
 package jour1;
 
-public class Job03 {
+public class Calculatrice {
 
     public static void main(String[] args) {
-        class Calculatrice{
+        class Calculator{
             public double addition(double a, double b){
                 return a + b;
             }
@@ -19,7 +19,7 @@ public class Job03 {
         }
 
     
-        Calculatrice calculatrice = new Calculatrice();
+        Calculator calculatrice = new Calculator();
         System.out.println("Entrer le premier nombre :");
         double a = Double.parseDouble(System.console().readLine());
         System.out.println("Entrer le deuxième nombre :");

@@ -1,6 +1,6 @@
 package jour1;
 
-public class job04 {
+public class BanqueTest {
     
     public static void main(String[] args){
         class CompteBancaire{

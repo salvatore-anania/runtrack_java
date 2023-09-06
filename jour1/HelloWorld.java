@@ -1,6 +1,6 @@
 package jour1;
 
-public class job01 {
+public class HelloWorld {
     public static void main(String[] args) {
         
         System.out.println("Veuillez saisir votre prenom :");

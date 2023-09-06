@@ -1,6 +1,6 @@
 package jour1;
 
-public class job02 {
+public class VoitureTest {
     public static void main(String[] args) {
         
         class Voiture {
