@@ -15,9 +15,5 @@ public class StreamsOperationExercice {
         // then create a list of the elements that are left
         List<Integer> list = stream.boxed().toList();
         System.out.println(list);
-
-
-        
-
     }
 }
